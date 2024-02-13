@@ -1489,13 +1489,12 @@ body .body-overlay {
     display: block;
     color: #fff;
     width: 100%;
-    border: 0.5px solid #999999;
+    border: none;
     background: none;
     font-size: 18px;
-    padding: 5px 10px;
+    padding: 0;
     transition: .2s;
     padding-bottom: 3px;
-    border-radius:3px!important;
 }
 
 .contact-area .contact-content .contact-form .input-group textarea {
